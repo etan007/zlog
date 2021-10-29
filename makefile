@@ -1,4 +1,4 @@
-# Top level makefile, the real shit is at src/makefile
+##  Top level makefile, the real shit is at src/makefile
 
 TARGETS=noopt 32bit
 
